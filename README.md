@@ -1,8 +1,11 @@
 # Custom Model and Ablation Testing for Retinal Disease [Journal Publication]
- 
 
 ## Overview
 This project involves the development and evaluation of a custom deep learning model for classifying retinal diseases using fundus images. The work appears to be part of research intended for journal publication, focusing on both model architecture design and ablation testing to understand the impact of different model components.
+
+## DataSet
+https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8
 
 ## Key Components
 
